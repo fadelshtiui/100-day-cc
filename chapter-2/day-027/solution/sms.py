@@ -15,8 +15,8 @@ import random
 import time
 
 # Your Account Sid and Auth Token from twilio.com/console
-account_sid = 'ACeb6ea9b3cde04da96cc049a60d785f0b'
-auth_token = 'c66c79bfa63921f7e43addb326fd69b7'
+account_sid = ''
+auth_token = ''
 app = Flask(__name__)
 
 jokes = ["Did you know theres no official training for a garbage collector?", 'I burnt my Hawaiian pizza today.', 'A doctor gave a man 6 months to live', 'How do you tuna fish?', 'What does a 6 foot 5 inch butcher weigh?']
