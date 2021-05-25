@@ -12,4 +12,6 @@ projects, revisit the fundamentals, and have fun along the way!
 
 Open up the chapters, and click on whichever day you'd like to start with. We recommend going in the existing order. Each day has it's own read me file with thorough instructions!
 
+Much of the content is both adapted from and inspired by material from CSE 142 + CSE 154 at the University of Washington.
 
+Authors: Fadel Shtiui + Brandon Mitchell
